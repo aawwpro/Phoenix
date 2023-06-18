@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phoenix.Tests", "Phoenix.Tests\Phoenix.Tests.csproj", "{994FBCCF-EF21-4ADE-A867-5A358B76EE6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phoenix.Web", "Phoenix.Web\Phoenix.Web.csproj", "{992050BE-BD2F-4729-80A6-9B443D185F5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phoenix.Console", "Phoenix.Console\Phoenix.Console.csproj", "{26B190D3-C813-4BD5-AED5-B45490210102}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{994FBCCF-EF21-4ADE-A867-5A358B76EE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{994FBCCF-EF21-4ADE-A867-5A358B76EE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{994FBCCF-EF21-4ADE-A867-5A358B76EE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{994FBCCF-EF21-4ADE-A867-5A358B76EE6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{992050BE-BD2F-4729-80A6-9B443D185F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{992050BE-BD2F-4729-80A6-9B443D185F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{992050BE-BD2F-4729-80A6-9B443D185F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{992050BE-BD2F-4729-80A6-9B443D185F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26B190D3-C813-4BD5-AED5-B45490210102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26B190D3-C813-4BD5-AED5-B45490210102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26B190D3-C813-4BD5-AED5-B45490210102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26B190D3-C813-4BD5-AED5-B45490210102}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
